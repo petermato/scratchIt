@@ -1,0 +1,1581 @@
+
+/* Class = "UIButton"; normalTitle = "Banská Bystrica"; ObjectID = "01J-k7-YwI"; */
+"01J-k7-YwI.normalTitle" = "Banská Bystrica";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "0MG-ia-ioK"; */
+"0MG-ia-ioK.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "0Q8-TG-bUD"; */
+"0Q8-TG-bUD.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Rimavská Sobota"; ObjectID = "0VQ-oo-MXA"; */
+"0VQ-oo-MXA.text" = "Rimavská Sobota";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "0aA-1g-0g9"; */
+"0aA-1g-0g9.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Detva"; ObjectID = "0kH-Cn-jDw"; */
+"0kH-Cn-jDw.text" = "Detva";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "0kI-qG-BzG"; */
+"0kI-qG-BzG.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Myjava"; ObjectID = "0mH-B9-JHK"; */
+"0mH-B9-JHK.text" = "Myjava";
+
+/* Class = "UISegmentedControl"; 0rM-zc-ajT.segmentTitles[0] = "Nie"; ObjectID = "0rM-zc-ajT"; */
+"0rM-zc-ajT.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 0rM-zc-ajT.segmentTitles[1] = "Áno"; ObjectID = "0rM-zc-ajT"; */
+"0rM-zc-ajT.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "0yh-nj-rT2"; */
+"0yh-nj-rT2.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "1Ly-fn-8o9"; */
+"1Ly-fn-8o9.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "1QJ-Nn-LEK"; */
+"1QJ-Nn-LEK.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "1Rj-mJ-Dt3"; */
+"1Rj-mJ-Dt3.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "1ph-UY-c8X"; */
+"1ph-UY-c8X.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "2Dv-Yi-VWh"; */
+"2Dv-Yi-VWh.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "2gc-Mf-8Sx"; */
+"2gc-Mf-8Sx.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; 2hc-ra-4vD.segmentTitles[0] = "Nie"; ObjectID = "2hc-ra-4vD"; */
+"2hc-ra-4vD.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 2hc-ra-4vD.segmentTitles[1] = "Áno"; ObjectID = "2hc-ra-4vD"; */
+"2hc-ra-4vD.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Nové Zámky"; ObjectID = "2qr-Qm-Len"; */
+"2qr-Qm-Len.normalTitle" = "Nové Zámky";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "34x-af-38Z"; */
+"34x-af-38Z.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Gelnica"; ObjectID = "3Jx-uJ-3IE"; */
+"3Jx-uJ-3IE.normalTitle" = "Gelnica";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "3T4-0H-WEt"; */
+"3T4-0H-WEt.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "3cy-tE-Um9"; */
+"3cy-tE-Um9.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; 3jK-GL-VaF.segmentTitles[0] = "Nie"; ObjectID = "3jK-GL-VaF"; */
+"3jK-GL-VaF.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 3jK-GL-VaF.segmentTitles[1] = "Áno"; ObjectID = "3jK-GL-VaF"; */
+"3jK-GL-VaF.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "42w-eU-VMV"; */
+"42w-eU-VMV.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; 45t-BY-ZN8.segmentTitles[0] = "Nie"; ObjectID = "45t-BY-ZN8"; */
+"45t-BY-ZN8.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 45t-BY-ZN8.segmentTitles[1] = "Áno"; ObjectID = "45t-BY-ZN8"; */
+"45t-BY-ZN8.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "4Ch-Jt-FIc"; */
+"4Ch-Jt-FIc.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Prešovský kraj"; ObjectID = "4IX-TZ-4jf"; */
+"4IX-TZ-4jf.normalTitle" = "Prešovský kraj";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "4ZN-nW-vCX"; */
+"4ZN-nW-vCX.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "4Zu-nl-ZkR"; */
+"4Zu-nl-ZkR.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "4aE-62-FHR"; */
+"4aE-62-FHR.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "4cf-Vm-3Qb"; */
+"4cf-Vm-3Qb.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; 4dE-fd-Qbu.segmentTitles[0] = "Nie"; ObjectID = "4dE-fd-Qbu"; */
+"4dE-fd-Qbu.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 4dE-fd-Qbu.segmentTitles[1] = "Áno"; ObjectID = "4dE-fd-Qbu"; */
+"4dE-fd-Qbu.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "4xT-1w-5UA"; */
+"4xT-1w-5UA.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "56v-nP-v0Q"; */
+"56v-nP-v0Q.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "5Dw-xd-xHK"; */
+"5Dw-xd-xHK.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; 5KV-eJ-N0d.segmentTitles[0] = "Nie"; ObjectID = "5KV-eJ-N0d"; */
+"5KV-eJ-N0d.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 5KV-eJ-N0d.segmentTitles[1] = "Áno"; ObjectID = "5KV-eJ-N0d"; */
+"5KV-eJ-N0d.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "5Sy-Eo-rJ2"; */
+"5Sy-Eo-rJ2.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; 5WE-P1-SgI.segmentTitles[0] = "Nie"; ObjectID = "5WE-P1-SgI"; */
+"5WE-P1-SgI.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 5WE-P1-SgI.segmentTitles[1] = "Áno"; ObjectID = "5WE-P1-SgI"; */
+"5WE-P1-SgI.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; 5bw-FI-uXc.segmentTitles[0] = "Nie"; ObjectID = "5bw-FI-uXc"; */
+"5bw-FI-uXc.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 5bw-FI-uXc.segmentTitles[1] = "Áno"; ObjectID = "5bw-FI-uXc"; */
+"5bw-FI-uXc.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "5dL-Uy-Z0N"; */
+"5dL-Uy-Z0N.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "5y5-1e-rVL"; */
+"5y5-1e-rVL.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "602-wc-B9a"; */
+"602-wc-B9a.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; 69S-O8-weQ.segmentTitles[0] = "Nie"; ObjectID = "69S-O8-weQ"; */
+"69S-O8-weQ.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 69S-O8-weQ.segmentTitles[1] = "Áno"; ObjectID = "69S-O8-weQ"; */
+"69S-O8-weQ.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "6Rp-vw-dej"; */
+"6Rp-vw-dej.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "6XW-OK-Ofa"; */
+"6XW-OK-Ofa.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Púchov"; ObjectID = "74y-9s-Ay7"; */
+"74y-9s-Ay7.normalTitle" = "Púchov";
+
+/* Class = "UISegmentedControl"; 7Fm-lr-fad.segmentTitles[0] = "Nie"; ObjectID = "7Fm-lr-fad"; */
+"7Fm-lr-fad.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 7Fm-lr-fad.segmentTitles[1] = "Áno"; ObjectID = "7Fm-lr-fad"; */
+"7Fm-lr-fad.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "7Fu-oX-F6L"; */
+"7Fu-oX-F6L.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; 7P3-dI-6jI.segmentTitles[0] = "Nie"; ObjectID = "7P3-dI-6jI"; */
+"7P3-dI-6jI.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 7P3-dI-6jI.segmentTitles[1] = "Áno"; ObjectID = "7P3-dI-6jI"; */
+"7P3-dI-6jI.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "7Xi-er-NgS"; */
+"7Xi-er-NgS.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Dunajská Streda"; ObjectID = "7cv-Xx-b3N"; */
+"7cv-Xx-b3N.normalTitle" = "Dunajská Streda";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "7hN-C9-wFv"; */
+"7hN-C9-wFv.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "7js-Da-pH0"; */
+"7js-Da-pH0.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "7k1-BY-hYj"; */
+"7k1-BY-hYj.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "7sw-EP-LIy"; */
+"7sw-EP-LIy.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "8Cw-j1-8wU"; */
+"8Cw-j1-8wU.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "8DN-hc-HEZ"; */
+"8DN-hc-HEZ.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "8PJ-ti-GwN"; */
+"8PJ-ti-GwN.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "8Q4-sl-OaZ"; */
+"8Q4-sl-OaZ.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "8Rs-7V-IlH"; */
+"8Rs-7V-IlH.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "8UC-av-7hb"; */
+"8UC-av-7hb.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Žiar nad Hronom"; ObjectID = "8Y3-XC-RsC"; */
+"8Y3-XC-RsC.normalTitle" = "Žiar nad Hronom";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "8ta-JK-GZB"; */
+"8ta-JK-GZB.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; 8zc-C0-kaU.segmentTitles[0] = "Nie"; ObjectID = "8zc-C0-kaU"; */
+"8zc-C0-kaU.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 8zc-C0-kaU.segmentTitles[1] = "Áno"; ObjectID = "8zc-C0-kaU"; */
+"8zc-C0-kaU.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "91K-s7-RTy"; */
+"91K-s7-RTy.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Liptovský Mikuláš"; ObjectID = "91p-Lz-Af2"; */
+"91p-Lz-Af2.text" = "Liptovský Mikuláš";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "951-9b-jc2"; */
+"951-9b-jc2.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "9HR-1g-bWD"; */
+"9HR-1g-bWD.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "               Karpatské bukové pralesy"; ObjectID = "9TZ-6I-SxH"; */
+"9TZ-6I-SxH.normalTitle" = "               Karpatské bukové pralesy";
+
+/* Class = "UILabel"; text = "Svidník"; ObjectID = "9bw-N5-BNd"; */
+"9bw-N5-BNd.text" = "Svidník";
+
+/* Class = "UISegmentedControl"; 9cr-DR-mTD.segmentTitles[0] = "Nie"; ObjectID = "9cr-DR-mTD"; */
+"9cr-DR-mTD.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 9cr-DR-mTD.segmentTitles[1] = "Áno"; ObjectID = "9cr-DR-mTD"; */
+"9cr-DR-mTD.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "9hz-it-h8H"; */
+"9hz-it-h8H.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Michalovce"; ObjectID = "9j8-Lk-cN1"; */
+"9j8-Lk-cN1.text" = "Michalovce";
+
+/* Class = "UISegmentedControl"; 9z4-7X-1LV.segmentTitles[0] = "Nie"; ObjectID = "9z4-7X-1LV"; */
+"9z4-7X-1LV.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; 9z4-7X-1LV.segmentTitles[1] = "Áno"; ObjectID = "9z4-7X-1LV"; */
+"9z4-7X-1LV.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "A72-gD-JjQ"; */
+"A72-gD-JjQ.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "A8v-Mf-Tto"; */
+"A8v-Mf-Tto.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ApW-e8-ZKp"; */
+"ApW-e8-ZKp.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Humenné"; ObjectID = "AxG-pc-Ewh"; */
+"AxG-pc-Ewh.text" = "Humenné";
+
+/* Class = "UITextField"; text = "scratchIt"; ObjectID = "B2J-7I-WGH"; */
+"B2J-7I-WGH.text" = "scratchIt";
+
+/* Class = "UISegmentedControl"; BJv-UQ-9su.segmentTitles[0] = "Nie"; ObjectID = "BJv-UQ-9su"; */
+"BJv-UQ-9su.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; BJv-UQ-9su.segmentTitles[1] = "Áno"; ObjectID = "BJv-UQ-9su"; */
+"BJv-UQ-9su.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "BPZ-Rj-b13"; */
+"BPZ-Rj-b13.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "BSA-qZ-hcU"; */
+"BSA-qZ-hcU.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; BXx-Xz-8Wf.segmentTitles[0] = "Nie"; ObjectID = "BXx-Xz-8Wf"; */
+"BXx-Xz-8Wf.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; BXx-Xz-8Wf.segmentTitles[1] = "Áno"; ObjectID = "BXx-Xz-8Wf"; */
+"BXx-Xz-8Wf.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Liptovský Mikuláš"; ObjectID = "Boh-RD-98K"; */
+"Boh-RD-98K.normalTitle" = "Liptovský Mikuláš";
+
+/* Class = "UIButton"; normalTitle = "Poprad"; ObjectID = "BpF-kX-l2O"; */
+"BpF-kX-l2O.normalTitle" = "Poprad";
+
+/* Class = "UISegmentedControl"; Brk-PX-QJn.segmentTitles[0] = "Nie"; ObjectID = "Brk-PX-QJn"; */
+"Brk-PX-QJn.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Brk-PX-QJn.segmentTitles[1] = "Áno"; ObjectID = "Brk-PX-QJn"; */
+"Brk-PX-QJn.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Partizánske"; ObjectID = "Bw7-Sw-6Sq"; */
+"Bw7-Sw-6Sq.normalTitle" = "Partizánske";
+
+/* Class = "UIButton"; normalTitle = "Malacky"; ObjectID = "C95-Ms-tZY"; */
+"C95-Ms-tZY.normalTitle" = "Malacky";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "CEm-Zf-GSN"; */
+"CEm-Zf-GSN.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITabBarItem"; title = "Pamiatky UNESCO"; ObjectID = "CIB-Fn-8h3"; */
+"CIB-Fn-8h3.title" = "Pamiatky UNESCO";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Ccc-IX-uT5"; */
+"Ccc-IX-uT5.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Banská Štiavnica"; ObjectID = "Cmd-e7-2fu"; */
+"Cmd-e7-2fu.normalTitle" = "Banská Štiavnica";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "CvJ-H5-tEm"; */
+"CvJ-H5-tEm.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; DY6-cL-1C5.segmentTitles[0] = "Nie"; ObjectID = "DY6-cL-1C5"; */
+"DY6-cL-1C5.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; DY6-cL-1C5.segmentTitles[1] = "Áno"; ObjectID = "DY6-cL-1C5"; */
+"DY6-cL-1C5.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; Dad-hm-hpr.segmentTitles[0] = "Nie"; ObjectID = "Dad-hm-hpr"; */
+"Dad-hm-hpr.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Dad-hm-hpr.segmentTitles[1] = "Áno"; ObjectID = "Dad-hm-hpr"; */
+"Dad-hm-hpr.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "De4-NP-1w7"; */
+"De4-NP-1w7.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Ilava"; ObjectID = "Dj7-6o-5sN"; */
+"Dj7-6o-5sN.normalTitle" = "Ilava";
+
+/* Class = "UISegmentedControl"; E08-aK-4Tp.segmentTitles[0] = "Nie"; ObjectID = "E08-aK-4Tp"; */
+"E08-aK-4Tp.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; E08-aK-4Tp.segmentTitles[1] = "Áno"; ObjectID = "E08-aK-4Tp"; */
+"E08-aK-4Tp.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Námestovo"; ObjectID = "E4J-Y5-6Iu"; */
+"E4J-Y5-6Iu.normalTitle" = "Námestovo";
+
+/* Class = "UILabel"; text = "  Píirodné dedičstvo"; ObjectID = "E8v-N5-fy4"; */
+"E8v-N5-fy4.text" = "  Píirodné dedičstvo";
+
+/* Class = "UISegmentedControl"; EHz-i6-6Hw.segmentTitles[0] = "No"; ObjectID = "EHz-i6-6Hw"; */
+"EHz-i6-6Hw.segmentTitles[0]" = "No";
+
+/* Class = "UISegmentedControl"; EHz-i6-6Hw.segmentTitles[1] = "Yes"; ObjectID = "EHz-i6-6Hw"; */
+"EHz-i6-6Hw.segmentTitles[1]" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "Čadca"; ObjectID = "ENr-Jw-FVx"; */
+"ENr-Jw-FVx.normalTitle" = "Čadca";
+
+/* Class = "UISegmentedControl"; Ehe-a7-s2N.segmentTitles[0] = "Nie"; ObjectID = "Ehe-a7-s2N"; */
+"Ehe-a7-s2N.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Ehe-a7-s2N.segmentTitles[1] = "Áno"; ObjectID = "Ehe-a7-s2N"; */
+"Ehe-a7-s2N.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "Ep8-am-8vo"; */
+"Ep8-am-8vo.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "F1n-bu-WfY"; */
+"F1n-bu-WfY.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "FL4-iv-sFA"; */
+"FL4-iv-sFA.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "FOW-57-ZZc"; */
+"FOW-57-ZZc.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Hlohovec"; ObjectID = "Faq-pN-wl3"; */
+"Faq-pN-wl3.normalTitle" = "Hlohovec";
+
+/* Class = "UISegmentedControl"; Fd5-i8-hHd.segmentTitles[0] = "Nie"; ObjectID = "Fd5-i8-hHd"; */
+"Fd5-i8-hHd.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Fd5-i8-hHd.segmentTitles[1] = "Áno"; ObjectID = "Fd5-i8-hHd"; */
+"Fd5-i8-hHd.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "Fkd-16-qb4"; */
+"Fkd-16-qb4.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Stropkov"; ObjectID = "Fsw-9m-IFo"; */
+"Fsw-9m-IFo.text" = "Stropkov";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "GaM-TJ-zRa"; */
+"GaM-TJ-zRa.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Trenčín"; ObjectID = "GfE-va-YTz"; */
+"GfE-va-YTz.text" = "Trenčín";
+
+/* Class = "UISegmentedControl"; Gik-2H-o8i.segmentTitles[0] = "Nie"; ObjectID = "Gik-2H-o8i"; */
+"Gik-2H-o8i.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Gik-2H-o8i.segmentTitles[1] = "Áno"; ObjectID = "Gik-2H-o8i"; */
+"Gik-2H-o8i.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "GpJ-rx-yar"; */
+"GpJ-rx-yar.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; Gpc-Jd-1k9.segmentTitles[0] = "Nie"; ObjectID = "Gpc-Jd-1k9"; */
+"Gpc-Jd-1k9.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Gpc-Jd-1k9.segmentTitles[1] = "Áno"; ObjectID = "Gpc-Jd-1k9"; */
+"Gpc-Jd-1k9.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "H45-IZ-kaH"; */
+"H45-IZ-kaH.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; HC6-tJ-kYZ.segmentTitles[0] = "Nie"; ObjectID = "HC6-tJ-kYZ"; */
+"HC6-tJ-kYZ.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; HC6-tJ-kYZ.segmentTitles[1] = "Áno"; ObjectID = "HC6-tJ-kYZ"; */
+"HC6-tJ-kYZ.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; HPS-jQ-xLv.segmentTitles[0] = "Nie"; ObjectID = "HPS-jQ-xLv"; */
+"HPS-jQ-xLv.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; HPS-jQ-xLv.segmentTitles[1] = "Áno"; ObjectID = "HPS-jQ-xLv"; */
+"HPS-jQ-xLv.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; HSv-Iq-4D5.segmentTitles[0] = "Nie"; ObjectID = "HSv-Iq-4D5"; */
+"HSv-Iq-4D5.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; HSv-Iq-4D5.segmentTitles[1] = "Áno"; ObjectID = "HSv-Iq-4D5"; */
+"HSv-Iq-4D5.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "HYX-jB-4fs"; */
+"HYX-jB-4fs.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "HcA-6J-IHe"; */
+"HcA-6J-IHe.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Hk0-DT-mRL"; */
+"Hk0-DT-mRL.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Dolný Kubín"; ObjectID = "HlC-ul-jwC"; */
+"HlC-ul-jwC.normalTitle" = "Dolný Kubín";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Hmh-LB-Tcp"; */
+"Hmh-LB-Tcp.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "I1y-9t-VUs"; */
+"I1y-9t-VUs.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Trnavský kraj"; ObjectID = "IM5-G7-8a4"; */
+"IM5-G7-8a4.normalTitle" = "Trnavský kraj";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ITk-VQ-XBy"; */
+"ITk-VQ-XBy.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Bytča"; ObjectID = "IYv-Fu-Ctg"; */
+"IYv-Fu-Ctg.normalTitle" = "Bytča";
+
+/* Class = "UILabel"; text = "Bardejov"; ObjectID = "Ifz-aO-0ad"; */
+"Ifz-aO-0ad.text" = "Bardejov";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "IgC-cW-dCw"; */
+"IgC-cW-dCw.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Martin"; ObjectID = "Ir8-Uy-xcl"; */
+"Ir8-Uy-xcl.text" = "Martin";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "Iyq-eY-2tR"; */
+"Iyq-eY-2tR.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "JCN-c4-XfZ"; */
+"JCN-c4-XfZ.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "JI7-G8-ghL"; */
+"JI7-G8-ghL.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Žarnovica"; ObjectID = "JIX-6Y-vNJ"; */
+"JIX-6Y-vNJ.text" = "Žarnovica";
+
+/* Class = "UILabel"; text = "Šaľa"; ObjectID = "JXd-Df-UFB"; */
+"JXd-Df-UFB.text" = "Šaľa";
+
+/* Class = "UIButton"; normalTitle = "Nitriansky kraj"; ObjectID = "JXe-a2-ZQd"; */
+"JXe-a2-ZQd.normalTitle" = "Nitriansky kraj";
+
+/* Class = "UIButton"; normalTitle = "Žilinský kraj"; ObjectID = "Jgn-6y-DpM"; */
+"Jgn-6y-DpM.normalTitle" = "Žilinský kraj";
+
+/* Class = "UILabel"; text = "Pezinok"; ObjectID = "Jod-HV-f3F"; */
+"Jod-HV-f3F.text" = "Pezinok";
+
+/* Class = "UISegmentedControl"; JqO-n2-v49.segmentTitles[0] = "Nie"; ObjectID = "JqO-n2-v49"; */
+"JqO-n2-v49.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; JqO-n2-v49.segmentTitles[1] = "Áno"; ObjectID = "JqO-n2-v49"; */
+"JqO-n2-v49.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Košický kraj"; ObjectID = "KHD-fV-dbe"; */
+"KHD-fV-dbe.normalTitle" = "Košický kraj";
+
+/* Class = "UISegmentedControl"; KIJ-4M-kaL.segmentTitles[0] = "Nie"; ObjectID = "KIJ-4M-kaL"; */
+"KIJ-4M-kaL.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; KIJ-4M-kaL.segmentTitles[1] = "Áno"; ObjectID = "KIJ-4M-kaL"; */
+"KIJ-4M-kaL.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Myjava"; ObjectID = "KR1-C2-DYj"; */
+"KR1-C2-DYj.normalTitle" = "Myjava";
+
+/* Class = "UISegmentedControl"; KVi-Q5-Dm9.segmentTitles[0] = "Nie"; ObjectID = "KVi-Q5-Dm9"; */
+"KVi-Q5-Dm9.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; KVi-Q5-Dm9.segmentTitles[1] = "Áno"; ObjectID = "KVi-Q5-Dm9"; */
+"KVi-Q5-Dm9.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "KcM-Tw-ubR"; */
+"KcM-Tw-ubR.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "Kkf-xc-s5V"; */
+"Kkf-xc-s5V.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Kr5-wl-7pT"; */
+"Kr5-wl-7pT.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Košice-okolie"; ObjectID = "Krx-So-j68"; */
+"Krx-So-j68.normalTitle" = "Košice-okolie";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Ky7-ft-axe"; */
+"Ky7-ft-axe.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "LE2-jP-jgj"; */
+"LE2-jP-jgj.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "LV4-K5-vd3"; */
+"LV4-K5-vd3.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "LXl-fL-lnZ"; */
+"LXl-fL-lnZ.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Tvrdošín"; ObjectID = "LeC-Ld-W53"; */
+"LeC-Ld-W53.normalTitle" = "Tvrdošín";
+
+/* Class = "UISegmentedControl"; Lfa-nv-2Rh.segmentTitles[0] = "Nie"; ObjectID = "Lfa-nv-2Rh"; */
+"Lfa-nv-2Rh.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Lfa-nv-2Rh.segmentTitles[1] = "Áno"; ObjectID = "Lfa-nv-2Rh"; */
+"Lfa-nv-2Rh.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; M5q-VQ-cfe.segmentTitles[0] = "Nie"; ObjectID = "M5q-VQ-cfe"; */
+"M5q-VQ-cfe.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; M5q-VQ-cfe.segmentTitles[1] = "Áno"; ObjectID = "M5q-VQ-cfe"; */
+"M5q-VQ-cfe.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "M8I-33-p5J"; */
+"M8I-33-p5J.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "MK0-4V-Y9t"; */
+"MK0-4V-Y9t.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Považská Bystrica"; ObjectID = "MfG-Qd-KD4"; */
+"MfG-Qd-KD4.text" = "Považská Bystrica";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "MjG-qk-bO6"; */
+"MjG-qk-bO6.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "N4t-VG-AHN"; */
+"N4t-VG-AHN.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "NO5-Uf-I5B"; */
+"NO5-Uf-I5B.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "NPf-Pg-de4"; */
+"NPf-Pg-de4.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "NTH-MZ-2mZ"; */
+"NTH-MZ-2mZ.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "I've been here"; ObjectID = "Nk3-DP-fSx"; */
+"Nk3-DP-fSx.text" = "I've been here";
+
+/* Class = "UISegmentedControl"; NkB-ux-WjV.segmentTitles[0] = "Nie"; ObjectID = "NkB-ux-WjV"; */
+"NkB-ux-WjV.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; NkB-ux-WjV.segmentTitles[1] = "Áno"; ObjectID = "NkB-ux-WjV"; */
+"NkB-ux-WjV.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Skalica"; ObjectID = "Np6-ck-IQS"; */
+"Np6-ck-IQS.text" = "Skalica";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Nqy-7K-lmr"; */
+"Nqy-7K-lmr.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Stropkov"; ObjectID = "O32-HP-nEu"; */
+"O32-HP-nEu.normalTitle" = "Stropkov";
+
+/* Class = "UILabel"; text = "Krupina"; ObjectID = "O67-9J-zx2"; */
+"O67-9J-zx2.text" = "Krupina";
+
+/* Class = "UILabel"; text = "Galanta"; ObjectID = "OU2-Kt-MAV"; */
+"OU2-Kt-MAV.text" = "Galanta";
+
+/* Class = "UISegmentedControl"; OdT-ZL-3Py.segmentTitles[0] = "Nie"; ObjectID = "OdT-ZL-3Py"; */
+"OdT-ZL-3Py.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; OdT-ZL-3Py.segmentTitles[1] = "Áno"; ObjectID = "OdT-ZL-3Py"; */
+"OdT-ZL-3Py.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "P7Z-VO-GTC"; */
+"P7Z-VO-GTC.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "P9W-xB-DO3"; */
+"P9W-xB-DO3.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; PNR-OI-hKi.segmentTitles[0] = "Nie"; ObjectID = "PNR-OI-hKi"; */
+"PNR-OI-hKi.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; PNR-OI-hKi.segmentTitles[1] = "Áno"; ObjectID = "PNR-OI-hKi"; */
+"PNR-OI-hKi.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Trnava"; ObjectID = "PPt-S6-YHH"; */
+"PPt-S6-YHH.text" = "Trnava";
+
+/* Class = "UISegmentedControl"; PZn-Al-CUJ.segmentTitles[0] = "Nie"; ObjectID = "PZn-Al-CUJ"; */
+"PZn-Al-CUJ.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; PZn-Al-CUJ.segmentTitles[1] = "Áno"; ObjectID = "PZn-Al-CUJ"; */
+"PZn-Al-CUJ.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "               Bardejov"; ObjectID = "Pje-c2-F2s"; */
+"Pje-c2-F2s.normalTitle" = "               Bardejov";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "PlF-Uv-QKd"; */
+"PlF-Uv-QKd.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "PmX-8o-EiN"; */
+"PmX-8o-EiN.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Snina"; ObjectID = "PyZ-k3-7Qa"; */
+"PyZ-k3-7Qa.text" = "Snina";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "Q2m-OD-XKc"; */
+"Q2m-OD-XKc.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Košice-okolie"; ObjectID = "Q5J-Gf-Mci"; */
+"Q5J-Gf-Mci.text" = "Košice-okolie";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "QHC-D5-cB8"; */
+"QHC-D5-cB8.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "QHt-GH-o0b"; */
+"QHt-GH-o0b.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "RQl-tN-BJO"; */
+"RQl-tN-BJO.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Bytča"; ObjectID = "RRK-k6-Q9s"; */
+"RRK-k6-Q9s.text" = "Bytča";
+
+/* Class = "UISegmentedControl"; Ra4-nS-r5n.segmentTitles[0] = "Nie"; ObjectID = "Ra4-nS-r5n"; */
+"Ra4-nS-r5n.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Ra4-nS-r5n.segmentTitles[1] = "Áno"; ObjectID = "Ra4-nS-r5n"; */
+"Ra4-nS-r5n.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; RbT-BN-lOz.segmentTitles[0] = "Nie"; ObjectID = "RbT-BN-lOz"; */
+"RbT-BN-lOz.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; RbT-BN-lOz.segmentTitles[1] = "Áno"; ObjectID = "RbT-BN-lOz"; */
+"RbT-BN-lOz.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Rnq-A9-60e"; */
+"Rnq-A9-60e.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Medzilaborce"; ObjectID = "Roo-As-BwQ"; */
+"Roo-As-BwQ.normalTitle" = "Medzilaborce";
+
+/* Class = "UIButton"; normalTitle = "               Banská Štiavnica"; ObjectID = "Rse-T8-4ij"; */
+"Rse-T8-4ij.normalTitle" = "               Banská Štiavnica";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Ry3-Ja-YSR"; */
+"Ry3-Ja-YSR.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Šaľa"; ObjectID = "RzJ-DK-Zh1"; */
+"RzJ-DK-Zh1.normalTitle" = "Šaľa";
+
+/* Class = "UISegmentedControl"; S1N-NS-Hyt.segmentTitles[0] = "Nie"; ObjectID = "S1N-NS-Hyt"; */
+"S1N-NS-Hyt.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; S1N-NS-Hyt.segmentTitles[1] = "Áno"; ObjectID = "S1N-NS-Hyt"; */
+"S1N-NS-Hyt.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Senica"; ObjectID = "S6e-ix-wPE"; */
+"S6e-ix-wPE.normalTitle" = "Senica";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "SCP-SR-Evq"; */
+"SCP-SR-Evq.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "SYl-7E-A6m"; */
+"SYl-7E-A6m.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "Sbq-yI-ZCr"; */
+"Sbq-yI-ZCr.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "SfD-IK-LGV"; */
+"SfD-IK-LGV.text" = "Say something about your trip ...";
+
+/* Class = "UISegmentedControl"; Sfy-04-84B.segmentTitles[0] = "Nie"; ObjectID = "Sfy-04-84B"; */
+"Sfy-04-84B.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Sfy-04-84B.segmentTitles[1] = "Áno"; ObjectID = "Sfy-04-84B"; */
+"Sfy-04-84B.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ShE-t3-Cvm"; */
+"ShE-t3-Cvm.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Pezinok"; ObjectID = "SlA-tg-DE6"; */
+"SlA-tg-DE6.normalTitle" = "Pezinok";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "StH-iG-30R"; */
+"StH-iG-30R.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Lučenec"; ObjectID = "SzG-de-ISU"; */
+"SzG-de-ISU.text" = "Lučenec";
+
+/* Class = "UIButton"; normalTitle = "Komárno"; ObjectID = "Szn-Md-6an"; */
+"Szn-Md-6an.normalTitle" = "Komárno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "T0z-X1-9GB"; */
+"T0z-X1-9GB.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "Tfp-RF-kmz"; */
+"Tfp-RF-kmz.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "  Kultúrne dedičstvo"; ObjectID = "Til-B9-bV6"; */
+"Til-B9-bV6.text" = "  Kultúrne dedičstvo";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "Tpu-rB-56e"; */
+"Tpu-rB-56e.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "TrH-mu-LuV"; */
+"TrH-mu-LuV.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "Ttd-IB-eSl"; */
+"Ttd-IB-eSl.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Bratislava I-V"; ObjectID = "TwF-al-NlK"; */
+"TwF-al-NlK.text" = "Bratislava I-V";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "U7W-J2-GhW"; */
+"U7W-J2-GhW.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "U9O-ag-rwD"; */
+"U9O-ag-rwD.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "UAJ-Do-bgw"; */
+"UAJ-Do-bgw.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "UCT-9a-tBZ"; */
+"UCT-9a-tBZ.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Žilina"; ObjectID = "UR2-6u-6Ij"; */
+"UR2-6u-6Ij.normalTitle" = "Žilina";
+
+/* Class = "UIButton"; normalTitle = "Kosice I-IV"; ObjectID = "UkV-WJ-bY3"; */
+"UkV-WJ-bY3.normalTitle" = "Kosice I-IV";
+
+/* Class = "UISegmentedControl"; V2N-WG-Kbk.segmentTitles[0] = "Nie"; ObjectID = "V2N-WG-Kbk"; */
+"V2N-WG-Kbk.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; V2N-WG-Kbk.segmentTitles[1] = "Áno"; ObjectID = "V2N-WG-Kbk"; */
+"V2N-WG-Kbk.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Levice"; ObjectID = "V8Z-hL-ZYv"; */
+"V8Z-hL-ZYv.normalTitle" = "Levice";
+
+/* Class = "UILabel"; text = "Košice I-IV"; ObjectID = "VA2-3K-7fZ"; */
+"VA2-3K-7fZ.text" = "Košice I-IV";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "VV7-IY-210"; */
+"VV7-IY-210.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "               Spisšký Hrad a mesto Levoča"; ObjectID = "VWy-K2-9jn"; */
+"VWy-K2-9jn.normalTitle" = "               Spisšký Hrad a mesto Levoča";
+
+/* Class = "UILabel"; text = "Veľký Krtíš"; ObjectID = "VZS-N6-8tp"; */
+"VZS-N6-8tp.text" = "Veľký Krtíš";
+
+/* Class = "UIButton"; normalTitle = "Rimavská Sobota"; ObjectID = "ViE-fC-25B"; */
+"ViE-fC-25B.normalTitle" = "Rimavská Sobota";
+
+/* Class = "UILabel"; text = "Kysucké Nové Mesto"; ObjectID = "VyP-tg-0la"; */
+"VyP-tg-0la.text" = "Kysucké Nové Mesto";
+
+/* Class = "UIButton"; normalTitle = "Bánovce nad Bebravou"; ObjectID = "W6I-VV-egJ"; */
+"W6I-VV-egJ.normalTitle" = "Bánovce nad Bebravou";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "WE5-s3-jF0"; */
+"WE5-s3-jF0.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Topoľčany"; ObjectID = "WVO-cn-aq6"; */
+"WVO-cn-aq6.normalTitle" = "Topoľčany";
+
+/* Class = "UILabel"; text = "Levice"; ObjectID = "WW6-4r-YO7"; */
+"WW6-4r-YO7.text" = "Levice";
+
+/* Class = "UIButton"; normalTitle = "               Vlkolínec"; ObjectID = "WXq-Qa-J7r"; */
+"WXq-Qa-J7r.normalTitle" = "               Vlkolínec";
+
+/* Class = "UIButton"; normalTitle = "Žarnovica"; ObjectID = "X3G-cl-qRI"; */
+"X3G-cl-qRI.normalTitle" = "Žarnovica";
+
+/* Class = "UISegmentedControl"; XYu-sg-Xt3.segmentTitles[0] = "Nie"; ObjectID = "XYu-sg-Xt3"; */
+"XYu-sg-Xt3.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; XYu-sg-Xt3.segmentTitles[1] = "Áno"; ObjectID = "XYu-sg-Xt3"; */
+"XYu-sg-Xt3.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "XdL-8m-nLY"; */
+"XdL-8m-nLY.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "XoE-AU-SFF"; */
+"XoE-AU-SFF.text" = "Say something about your trip ...";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "XxU-Ir-Z16"; */
+"XxU-Ir-Z16.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Svidnik"; ObjectID = "YE9-Hb-yxj"; */
+"YE9-Hb-yxj.normalTitle" = "Svidnik";
+
+/* Class = "UISegmentedControl"; YJj-uO-2ZZ.segmentTitles[0] = "Nie"; ObjectID = "YJj-uO-2ZZ"; */
+"YJj-uO-2ZZ.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; YJj-uO-2ZZ.segmentTitles[1] = "Áno"; ObjectID = "YJj-uO-2ZZ"; */
+"YJj-uO-2ZZ.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Ružomberok"; ObjectID = "YNm-kb-fec"; */
+"YNm-kb-fec.text" = "Ružomberok";
+
+/* Class = "UILabel"; text = "Vranov nad Topľou"; ObjectID = "YbZ-i1-Vli"; */
+"YbZ-i1-Vli.text" = "Vranov nad Topľou";
+
+/* Class = "UISegmentedControl"; Ygp-vZ-JoT.segmentTitles[0] = "Nie"; ObjectID = "Ygp-vZ-JoT"; */
+"Ygp-vZ-JoT.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; Ygp-vZ-JoT.segmentTitles[1] = "Áno"; ObjectID = "Ygp-vZ-JoT"; */
+"Ygp-vZ-JoT.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; YhT-Cb-hyA.segmentTitles[0] = "Nie"; ObjectID = "YhT-Cb-hyA"; */
+"YhT-Cb-hyA.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; YhT-Cb-hyA.segmentTitles[1] = "Áno"; ObjectID = "YhT-Cb-hyA"; */
+"YhT-Cb-hyA.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Kežmarok"; ObjectID = "Ypi-aA-v6W"; */
+"Ypi-aA-v6W.normalTitle" = "Kežmarok";
+
+/* Class = "UIButton"; normalTitle = "Senec"; ObjectID = "Yzf-lS-xwt"; */
+"Yzf-lS-xwt.normalTitle" = "Senec";
+
+/* Class = "UILabel"; text = "Nitra"; ObjectID = "ZJD-IB-B2b"; */
+"ZJD-IB-B2b.text" = "Nitra";
+
+/* Class = "UIButton"; normalTitle = "Rožňava"; ObjectID = "ZV8-2Q-IAU"; */
+"ZV8-2Q-IAU.normalTitle" = "Rožňava";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "ZWu-LF-yAP"; */
+"ZWu-LF-yAP.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Nové Zámky"; ObjectID = "Zgl-CB-tzo"; */
+"Zgl-CB-tzo.text" = "Nové Zámky";
+
+/* Class = "UIButton"; normalTitle = "Michalovce"; ObjectID = "a6g-uu-AFk"; */
+"a6g-uu-AFk.normalTitle" = "Michalovce";
+
+/* Class = "UILabel"; text = "Banská Bystrica"; ObjectID = "aBa-UU-JFf"; */
+"aBa-UU-JFf.text" = "Banská Bystrica";
+
+/* Class = "UILabel"; text = "Brezno"; ObjectID = "aaC-Oy-XbX"; */
+"aaC-Oy-XbX.text" = "Brezno";
+
+/* Class = "UISegmentedControl"; agb-jN-yr9.segmentTitles[0] = "Nie"; ObjectID = "agb-jN-yr9"; */
+"agb-jN-yr9.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; agb-jN-yr9.segmentTitles[1] = "Áno"; ObjectID = "agb-jN-yr9"; */
+"agb-jN-yr9.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Sobrance"; ObjectID = "ai5-5R-2rE"; */
+"ai5-5R-2rE.text" = "Sobrance";
+
+/* Class = "UISegmentedControl"; akh-ey-p1t.segmentTitles[0] = "Nie"; ObjectID = "akh-ey-p1t"; */
+"akh-ey-p1t.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; akh-ey-p1t.segmentTitles[1] = "Áno"; ObjectID = "akh-ey-p1t"; */
+"akh-ey-p1t.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "amS-4d-nxc"; */
+"amS-4d-nxc.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Stará Ľubovňa"; ObjectID = "aq1-0W-UhE"; */
+"aq1-0W-UhE.text" = "Stará Ľubovňa";
+
+/* Class = "UISegmentedControl"; asn-N2-Mk4.segmentTitles[0] = "Nie"; ObjectID = "asn-N2-Mk4"; */
+"asn-N2-Mk4.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; asn-N2-Mk4.segmentTitles[1] = "Áno"; ObjectID = "asn-N2-Mk4"; */
+"asn-N2-Mk4.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; bSa-0F-KuG.segmentTitles[0] = "Nie"; ObjectID = "bSa-0F-KuG"; */
+"bSa-0F-KuG.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; bSa-0F-KuG.segmentTitles[1] = "Áno"; ObjectID = "bSa-0F-KuG"; */
+"bSa-0F-KuG.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "bWp-fI-fHC"; */
+"bWp-fI-fHC.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; ba8-Ww-ndc.segmentTitles[0] = "Nie"; ObjectID = "ba8-Ww-ndc"; */
+"ba8-Ww-ndc.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; ba8-Ww-ndc.segmentTitles[1] = "Áno"; ObjectID = "ba8-Ww-ndc"; */
+"ba8-Ww-ndc.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "bmQ-uT-eiW"; */
+"bmQ-uT-eiW.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "bso-IJ-15w"; */
+"bso-IJ-15w.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Lučenec"; ObjectID = "byb-ly-deb"; */
+"byb-ly-deb.normalTitle" = "Lučenec";
+
+/* Class = "UISegmentedControl"; c1v-kX-2Ey.segmentTitles[0] = "Nie"; ObjectID = "c1v-kX-2Ey"; */
+"c1v-kX-2Ey.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; c1v-kX-2Ey.segmentTitles[1] = "Áno"; ObjectID = "c1v-kX-2Ey"; */
+"c1v-kX-2Ey.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "c2I-Qm-ktI"; */
+"c2I-Qm-ktI.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Spišská Nová Ves"; ObjectID = "cJV-DC-Srd"; */
+"cJV-DC-Srd.normalTitle" = "Spišská Nová Ves";
+
+/* Class = "UILabel"; text = "Gelnica"; ObjectID = "cLh-F2-Bg7"; */
+"cLh-F2-Bg7.text" = "Gelnica";
+
+/* Class = "UILabel"; text = "Dolný Kubín"; ObjectID = "cM9-iE-1gX"; */
+"cM9-iE-1gX.text" = "Dolný Kubín";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "cQx-GU-tOg"; */
+"cQx-GU-tOg.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "cV7-uG-4q6"; */
+"cV7-uG-4q6.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Revúca"; ObjectID = "cg8-AR-d85"; */
+"cg8-AR-d85.text" = "Revúca";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "ciI-uo-ecm"; */
+"ciI-uo-ecm.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; cnD-j4-0UM.segmentTitles[0] = "Nie"; ObjectID = "cnD-j4-0UM"; */
+"cnD-j4-0UM.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; cnD-j4-0UM.segmentTitles[1] = "Áno"; ObjectID = "cnD-j4-0UM"; */
+"cnD-j4-0UM.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "crf-tI-EgU"; */
+"crf-tI-EgU.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "czZ-N7-rhW"; */
+"czZ-N7-rhW.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "d3O-g7-ZnW"; */
+"d3O-g7-ZnW.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "d3u-09-use"; */
+"d3u-09-use.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; dGN-gr-aP5.segmentTitles[0] = "Nie"; ObjectID = "dGN-gr-aP5"; */
+"dGN-gr-aP5.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; dGN-gr-aP5.segmentTitles[1] = "Áno"; ObjectID = "dGN-gr-aP5"; */
+"dGN-gr-aP5.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Galanta"; ObjectID = "dM1-BI-5hR"; */
+"dM1-BI-5hR.normalTitle" = "Galanta";
+
+/* Class = "UITextView"; text = "Povedz niečo o svojom výlete ... "; ObjectID = "dYs-Fv-Gfm"; */
+"dYs-Fv-Gfm.text" = "Povedz niečo o svojom výlete ... ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "deM-UI-EBM"; */
+"deM-UI-EBM.text" = "Bol/a som tu";
+
+/* Class = "UITabBarItem"; title = "Krajina"; ObjectID = "dzF-Lj-uPe"; */
+"dzF-Lj-uPe.title" = "Krajina";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "e2f-Vg-dhG"; */
+"e2f-Vg-dhG.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Poltár"; ObjectID = "eA2-Xo-n9O"; */
+"eA2-Xo-n9O.normalTitle" = "Poltár";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "eAA-3M-xIB"; */
+"eAA-3M-xIB.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Nové Mesto nad Váhom"; ObjectID = "eCe-E6-hCQ"; */
+"eCe-E6-hCQ.normalTitle" = "Nové Mesto nad Váhom";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "eEw-On-TO1"; */
+"eEw-On-TO1.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "eIL-VF-UDz"; */
+"eIL-VF-UDz.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Považšká Bystrica"; ObjectID = "eKe-4Y-9qE"; */
+"eKe-4Y-9qE.normalTitle" = "Považšká Bystrica";
+
+/* Class = "UISegmentedControl"; eMd-P4-kbP.segmentTitles[0] = "Nie"; ObjectID = "eMd-P4-kbP"; */
+"eMd-P4-kbP.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; eMd-P4-kbP.segmentTitles[1] = "Áno"; ObjectID = "eMd-P4-kbP"; */
+"eMd-P4-kbP.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "eap-0Z-Zqb"; */
+"eap-0Z-Zqb.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Brezno"; ObjectID = "ebe-aE-nrs"; */
+"ebe-aE-nrs.normalTitle" = "Brezno";
+
+/* Class = "UISegmentedControl"; eiw-r4-7Sj.segmentTitles[0] = "Nie"; ObjectID = "eiw-r4-7Sj"; */
+"eiw-r4-7Sj.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; eiw-r4-7Sj.segmentTitles[1] = "Áno"; ObjectID = "eiw-r4-7Sj"; */
+"eiw-r4-7Sj.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "f6W-YM-g9s"; */
+"f6W-YM-g9s.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Prievidza"; ObjectID = "f7G-l6-BQM"; */
+"f7G-l6-BQM.text" = "Prievidza";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "f7d-Yy-LRj"; */
+"f7d-Yy-LRj.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Trenčín"; ObjectID = "f9F-pb-90M"; */
+"f9F-pb-90M.normalTitle" = "Trenčín";
+
+/* Class = "UISegmentedControl"; fMg-vj-uTV.segmentTitles[0] = "Nie"; ObjectID = "fMg-vj-uTV"; */
+"fMg-vj-uTV.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; fMg-vj-uTV.segmentTitles[1] = "Áno"; ObjectID = "fMg-vj-uTV"; */
+"fMg-vj-uTV.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Senec"; ObjectID = "fQ9-Pg-qcE"; */
+"fQ9-Pg-qcE.text" = "Senec";
+
+/* Class = "UIButton"; normalTitle = "Vranov nad Topľou"; ObjectID = "fVx-qC-Jl0"; */
+"fVx-qC-Jl0.normalTitle" = "Vranov nad Topľou";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "fc0-P3-cXK"; */
+"fc0-P3-cXK.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "fes-YP-EaF"; */
+"fes-YP-EaF.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "g3A-D7-Md4"; */
+"g3A-D7-Md4.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "gX1-Up-V1H"; */
+"gX1-Up-V1H.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "gbR-cu-kds"; */
+"gbR-cu-kds.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ggR-RU-o6L"; */
+"ggR-RU-o6L.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "ggh-iF-ggc"; */
+"ggh-iF-ggc.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Nitra"; ObjectID = "git-1B-mnD"; */
+"git-1B-mnD.normalTitle" = "Nitra";
+
+/* Class = "UIButton"; normalTitle = "Trnava"; ObjectID = "gvW-Qk-s63"; */
+"gvW-Qk-s63.normalTitle" = "Trnava";
+
+/* Class = "UILabel"; text = "Žilina"; ObjectID = "gvq-WW-Rpf"; */
+"gvq-WW-Rpf.text" = "Žilina";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "hHV-Oi-t5U"; */
+"hHV-Oi-t5U.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "hTM-3a-r7A"; */
+"hTM-3a-r7A.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; hXN-nu-VdV.segmentTitles[0] = "Nie"; ObjectID = "hXN-nu-VdV"; */
+"hXN-nu-VdV.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; hXN-nu-VdV.segmentTitles[1] = "Áno"; ObjectID = "hXN-nu-VdV"; */
+"hXN-nu-VdV.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Sobrance"; ObjectID = "hh0-Kz-DOd"; */
+"hh0-Kz-DOd.normalTitle" = "Sobrance";
+
+/* Class = "UISegmentedControl"; hlA-nq-5sS.segmentTitles[0] = "Nie"; ObjectID = "hlA-nq-5sS"; */
+"hlA-nq-5sS.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; hlA-nq-5sS.segmentTitles[1] = "Áno"; ObjectID = "hlA-nq-5sS"; */
+"hlA-nq-5sS.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "hnh-dy-Az9"; */
+"hnh-dy-Az9.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "hvO-xF-fPj"; */
+"hvO-xF-fPj.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; i0n-mb-W93.segmentTitles[0] = "Nie"; ObjectID = "i0n-mb-W93"; */
+"i0n-mb-W93.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; i0n-mb-W93.segmentTitles[1] = "Áno"; ObjectID = "i0n-mb-W93"; */
+"i0n-mb-W93.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "iFO-ph-aVw"; */
+"iFO-ph-aVw.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Levoča"; ObjectID = "iRy-jo-9ik"; */
+"iRy-jo-9ik.text" = "Levoča";
+
+/* Class = "UIButton"; normalTitle = "Bratislava I-V"; ObjectID = "iSQ-iS-6Iw"; */
+"iSQ-iS-6Iw.normalTitle" = "Bratislava I-V";
+
+/* Class = "UILabel"; text = "Rožňava"; ObjectID = "iTa-vC-QW3"; */
+"iTa-vC-QW3.text" = "Rožňava";
+
+/* Class = "UIButton"; normalTitle = "Banskobystrický kraj"; ObjectID = "ifi-PY-3tu"; */
+"ifi-PY-3tu.normalTitle" = "Banskobystrický kraj";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "ikS-jk-Zdb"; */
+"ikS-jk-Zdb.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Stará Ľubovňa"; ObjectID = "jBj-Mm-hl8"; */
+"jBj-Mm-hl8.normalTitle" = "Stará Ľubovňa";
+
+/* Class = "UISegmentedControl"; jPL-IK-J6d.segmentTitles[0] = "Nie"; ObjectID = "jPL-IK-J6d"; */
+"jPL-IK-J6d.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; jPL-IK-J6d.segmentTitles[1] = "Áno"; ObjectID = "jPL-IK-J6d"; */
+"jPL-IK-J6d.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Veľký Krtíš"; ObjectID = "jep-va-CYL"; */
+"jep-va-CYL.normalTitle" = "Veľký Krtíš";
+
+/* Class = "UILabel"; text = "Partizánske"; ObjectID = "jtc-fQ-Dqy"; */
+"jtc-fQ-Dqy.text" = "Partizánske";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "kEj-g4-PJ3"; */
+"kEj-g4-PJ3.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Martin"; ObjectID = "kLR-an-EnU"; */
+"kLR-an-EnU.normalTitle" = "Martin";
+
+/* Class = "UILabel"; text = "Zvolen"; ObjectID = "kQv-j1-9uW"; */
+"kQv-j1-9uW.text" = "Zvolen";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "kV2-zC-QdP"; */
+"kV2-zC-QdP.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Hlohovec"; ObjectID = "kXR-FA-Iug"; */
+"kXR-FA-Iug.text" = "Hlohovec";
+
+/* Class = "UIButton"; normalTitle = "Zlaté Moravce"; ObjectID = "kZd-gQ-LRz"; */
+"kZd-gQ-LRz.normalTitle" = "Zlaté Moravce";
+
+/* Class = "UIButton"; normalTitle = "Turčianske Teplice"; ObjectID = "kdu-Zq-AGx"; */
+"kdu-Zq-AGx.normalTitle" = "Turčianske Teplice";
+
+/* Class = "UILabel"; text = "Nové Mesto nad Váhom"; ObjectID = "kiv-JV-Ckf"; */
+"kiv-JV-Ckf.text" = "Nové Mesto nad Váhom";
+
+/* Class = "UILabel"; text = "Námestovo"; ObjectID = "kuU-Fc-BrN"; */
+"kuU-Fc-BrN.text" = "Námestovo";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "kun-df-XNV"; */
+"kun-df-XNV.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; l3K-bz-gQy.segmentTitles[0] = "Nie"; ObjectID = "l3K-bz-gQy"; */
+"l3K-bz-gQy.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; l3K-bz-gQy.segmentTitles[1] = "Áno"; ObjectID = "l3K-bz-gQy"; */
+"l3K-bz-gQy.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "l7e-5O-V0x"; */
+"l7e-5O-V0x.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "lLd-yp-vgI"; */
+"lLd-yp-vgI.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Trebišov"; ObjectID = "la4-d0-pHV"; */
+"la4-d0-pHV.text" = "Trebišov";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "lcj-RP-AFz"; */
+"lcj-RP-AFz.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Malacky"; ObjectID = "leV-AV-g1G"; */
+"leV-AV-g1G.text" = "Malacky";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "li3-xx-bHH"; */
+"li3-xx-bHH.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "m5Q-YK-yhP"; */
+"m5Q-YK-yhP.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Prešov"; ObjectID = "m7C-KA-MxI"; */
+"m7C-KA-MxI.normalTitle" = "Prešov";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "mAY-8a-7HM"; */
+"mAY-8a-7HM.text" = "Bol/a som tu";
+
+/* Class = "UISegmentedControl"; mUI-S0-5MP.segmentTitles[0] = "Nie"; ObjectID = "mUI-S0-5MP"; */
+"mUI-S0-5MP.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; mUI-S0-5MP.segmentTitles[1] = "Áno"; ObjectID = "mUI-S0-5MP"; */
+"mUI-S0-5MP.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "mcq-Do-J4p"; */
+"mcq-Do-J4p.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Banská Štiavnica"; ObjectID = "mfl-5A-Xxs"; */
+"mfl-5A-Xxs.text" = "Banská Štiavnica";
+
+/* Class = "UIButton"; normalTitle = "Humenné"; ObjectID = "mi4-BN-bvw"; */
+"mi4-BN-bvw.normalTitle" = "Humenné";
+
+/* Class = "UISegmentedControl"; mqR-xX-6C7.segmentTitles[0] = "Nie"; ObjectID = "mqR-xX-6C7"; */
+"mqR-xX-6C7.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; mqR-xX-6C7.segmentTitles[1] = "Áno"; ObjectID = "mqR-xX-6C7"; */
+"mqR-xX-6C7.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; nEa-qn-7DX.segmentTitles[0] = "Nie"; ObjectID = "nEa-qn-7DX"; */
+"nEa-qn-7DX.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; nEa-qn-7DX.segmentTitles[1] = "Áno"; ObjectID = "nEa-qn-7DX"; */
+"nEa-qn-7DX.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "nbM-oS-sfA"; */
+"nbM-oS-sfA.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; oGG-j3-Cbk.segmentTitles[0] = "Nie"; ObjectID = "oGG-j3-Cbk"; */
+"oGG-j3-Cbk.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; oGG-j3-Cbk.segmentTitles[1] = "Áno"; ObjectID = "oGG-j3-Cbk"; */
+"oGG-j3-Cbk.segmentTitles[1]" = "Áno";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ojD-w6-OIA"; */
+"ojD-w6-OIA.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "oqU-zR-C5k"; */
+"oqU-zR-C5k.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Prešov"; ObjectID = "osN-rP-yXg"; */
+"osN-rP-yXg.text" = "Prešov";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "ozm-Zc-8Hn"; */
+"ozm-Zc-8Hn.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "p0h-fV-R8M"; */
+"p0h-fV-R8M.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "               Drevené kostoly v slovenských Karpatoch"; ObjectID = "pKL-VA-ezj"; */
+"pKL-VA-ezj.normalTitle" = "               Drevené kostoly v slovenských Karpatoch";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "pPK-lU-XmW"; */
+"pPK-lU-XmW.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Púchov"; ObjectID = "pSD-PW-oh7"; */
+"pSD-PW-oh7.text" = "Púchov";
+
+/* Class = "UILabel"; text = "Turčianske Teplice"; ObjectID = "pSN-ro-hJg"; */
+"pSN-ro-hJg.text" = "Turčianske Teplice";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "pTM-TN-weI"; */
+"pTM-TN-weI.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "pdW-4V-zZu"; */
+"pdW-4V-zZu.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Medzilaborce"; ObjectID = "ppj-QP-pjW"; */
+"ppj-QP-pjW.text" = "Medzilaborce";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "ptB-r8-MVk"; */
+"ptB-r8-MVk.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Tvrdošín"; ObjectID = "pva-KD-AIn"; */
+"pva-KD-AIn.text" = "Tvrdošín";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "q6O-WF-MZx"; */
+"q6O-WF-MZx.title" = "Item";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "q7p-cA-Xai"; */
+"q7p-cA-Xai.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Bratislavský kraj"; ObjectID = "q8G-sY-F49"; */
+"q8G-sY-F49.normalTitle" = "Bratislavský kraj";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "qIa-Ls-Aw7"; */
+"qIa-Ls-Aw7.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "qaV-MS-e3a"; */
+"qaV-MS-e3a.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "qkk-bZ-jM5"; */
+"qkk-bZ-jM5.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Komárno"; ObjectID = "qpk-tR-s8V"; */
+"qpk-tR-s8V.text" = "Komárno";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "qtq-8W-gAp"; */
+"qtq-8W-gAp.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Žiar nad Hronom"; ObjectID = "r20-lp-hz5"; */
+"r20-lp-hz5.text" = "Žiar nad Hronom";
+
+/* Class = "UILabel"; text = "Ilava"; ObjectID = "r3G-Se-lvW"; */
+"r3G-Se-lvW.text" = "Ilava";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "rE7-O8-FPl"; */
+"rE7-O8-FPl.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Dunajská Streda"; ObjectID = "rGu-ck-K3Q"; */
+"rGu-ck-K3Q.text" = "Dunajská Streda";
+
+/* Class = "UIButton"; normalTitle = "Revúca"; ObjectID = "rII-jb-cwA"; */
+"rII-jb-cwA.normalTitle" = "Revúca";
+
+/* Class = "UISegmentedControl"; rK8-Qn-FPO.segmentTitles[0] = "Nie"; ObjectID = "rK8-Qn-FPO"; */
+"rK8-Qn-FPO.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; rK8-Qn-FPO.segmentTitles[1] = "Áno"; ObjectID = "rK8-Qn-FPO"; */
+"rK8-Qn-FPO.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Kysucké Nové Mesto"; ObjectID = "rdP-6t-ijg"; */
+"rdP-6t-ijg.normalTitle" = "Kysucké Nové Mesto";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "rhh-0w-J5q"; */
+"rhh-0w-J5q.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Poltár"; ObjectID = "ryI-iV-cGG"; */
+"ryI-iV-cGG.text" = "Poltár";
+
+/* Class = "UIButton"; normalTitle = "Bardejov"; ObjectID = "s3n-Nl-cnZ"; */
+"s3n-Nl-cnZ.normalTitle" = "Bardejov";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "sA0-3n-AzU"; */
+"sA0-3n-AzU.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "sGp-ZG-icJ"; */
+"sGp-ZG-icJ.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "sY2-pv-wbf"; */
+"sY2-pv-wbf.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Zvolen"; ObjectID = "scm-8W-1D8"; */
+"scm-8W-1D8.normalTitle" = "Zvolen";
+
+/* Class = "UILabel"; text = "Topoľčany"; ObjectID = "skx-CR-enf"; */
+"skx-CR-enf.text" = "Topoľčany";
+
+/* Class = "UIButton"; normalTitle = "Prievidza"; ObjectID = "smX-ya-tES"; */
+"smX-ya-tES.normalTitle" = "Prievidza";
+
+/* Class = "UILabel"; text = "Piešťany"; ObjectID = "so8-MU-KMP"; */
+"so8-MU-KMP.text" = "Piešťany";
+
+/* Class = "UIButton"; normalTitle = "Skalica"; ObjectID = "spf-a2-T2O"; */
+"spf-a2-T2O.normalTitle" = "Skalica";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "t50-oW-r6N"; */
+"t50-oW-r6N.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "t7M-Mg-1tb"; */
+"t7M-Mg-1tb.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "tFT-cy-UYo"; */
+"tFT-cy-UYo.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Piešťany"; ObjectID = "tJR-2v-I4L"; */
+"tJR-2v-I4L.normalTitle" = "Piešťany";
+
+/* Class = "UIButton"; normalTitle = "Trebišov"; ObjectID = "tSD-h7-v7F"; */
+"tSD-h7-v7F.normalTitle" = "Trebišov";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "tYV-z3-fl9"; */
+"tYV-z3-fl9.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "tjw-i0-mME"; */
+"tjw-i0-mME.text" = "Say something about your trip ...";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "tsM-6K-rco"; */
+"tsM-6K-rco.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Kežmarok"; ObjectID = "txa-ZT-Mmy"; */
+"txa-ZT-Mmy.text" = "Kežmarok";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "u3o-xm-lQZ"; */
+"u3o-xm-lQZ.text" = "Bol/a som tu";
+
+/* Class = "UILabel"; text = "Senica"; ObjectID = "u8B-fa-wZk"; */
+"u8B-fa-wZk.text" = "Senica";
+
+/* Class = "UISegmentedControl"; uAe-wG-QII.segmentTitles[0] = "Nie"; ObjectID = "uAe-wG-QII"; */
+"uAe-wG-QII.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; uAe-wG-QII.segmentTitles[1] = "Áno"; ObjectID = "uAe-wG-QII"; */
+"uAe-wG-QII.segmentTitles[1]" = "Áno";
+
+/* Class = "UILabel"; text = "Zlaté Moravce"; ObjectID = "uEd-7L-ND6"; */
+"uEd-7L-ND6.text" = "Zlaté Moravce";
+
+/* Class = "UIButton"; normalTitle = "Krupina"; ObjectID = "uYk-H0-1DB"; */
+"uYk-H0-1DB.normalTitle" = "Krupina";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "uie-F1-lC7"; */
+"uie-F1-lC7.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "umO-Dh-ErE"; */
+"umO-Dh-ErE.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "scratchIt"; ObjectID = "utr-0Q-xpu"; */
+"utr-0Q-xpu.text" = "scratchIt";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "v14-7h-6m9"; */
+"v14-7h-6m9.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; v60-v2-0bf.segmentTitles[0] = "Nie"; ObjectID = "v60-v2-0bf"; */
+"v60-v2-0bf.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; v60-v2-0bf.segmentTitles[1] = "Áno"; ObjectID = "v60-v2-0bf"; */
+"v60-v2-0bf.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "vEj-cR-YoQ"; */
+"vEj-cR-YoQ.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; vco-4g-Eeg.segmentTitles[0] = "Nie"; ObjectID = "vco-4g-Eeg"; */
+"vco-4g-Eeg.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; vco-4g-Eeg.segmentTitles[1] = "Áno"; ObjectID = "vco-4g-Eeg"; */
+"vco-4g-Eeg.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "Ružomberok"; ObjectID = "vsi-2w-9Qk"; */
+"vsi-2w-9Qk.normalTitle" = "Ružomberok";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "vwS-E1-LKQ"; */
+"vwS-E1-LKQ.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Bánovce nad Bebravou"; ObjectID = "w4f-ae-wum"; */
+"w4f-ae-wum.text" = "Bánovce nad Bebravou";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "wCw-xG-Hz3"; */
+"wCw-xG-Hz3.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "wGn-fg-D5y"; */
+"wGn-fg-D5y.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "Trenčiansky kraj"; ObjectID = "wQc-FC-YtA"; */
+"wQc-FC-YtA.normalTitle" = "Trenčiansky kraj";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "waJ-vZ-y4B"; */
+"waJ-vZ-y4B.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Snina"; ObjectID = "wbb-ro-uSP"; */
+"wbb-ro-uSP.normalTitle" = "Snina";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "wcL-Fb-KRq"; */
+"wcL-Fb-KRq.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "wkL-x6-Shb"; */
+"wkL-x6-Shb.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "wmh-qY-cTx"; */
+"wmh-qY-cTx.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "wrw-G0-9PZ"; */
+"wrw-G0-9PZ.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Poprad"; ObjectID = "x8R-Sh-fSS"; */
+"x8R-Sh-fSS.text" = "Poprad";
+
+/* Class = "UIButton"; normalTitle = "               Jaskyne Aggteleckého a Slovenského krasu"; ObjectID = "xBM-Au-3Ka"; */
+"xBM-Au-3Ka.normalTitle" = "               Jaskyne Aggteleckého a Slovenského krasu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "xSL-LG-p7i"; */
+"xSL-LG-p7i.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "xZ4-8Y-D1L"; */
+"xZ4-8Y-D1L.text" = "Bol/a som tu";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "xZ9-8M-bTA"; */
+"xZ9-8M-bTA.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "y2r-tv-ML9"; */
+"y2r-tv-ML9.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Levoča"; ObjectID = "yKC-hF-JLf"; */
+"yKC-hF-JLf.normalTitle" = "Levoča";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "yVz-mZ-0j6"; */
+"yVz-mZ-0j6.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "ybN-nK-3Ko"; */
+"ybN-nK-3Ko.text" = "Bol/a som tu";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "yfu-7N-r3L"; */
+"yfu-7N-r3L.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "ygJ-4T-0Tr"; */
+"ygJ-4T-0Tr.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "yhV-yW-S8v"; */
+"yhV-yW-S8v.text" = "Say something about your trip ...";
+
+/* Class = "UILabel"; text = "Čadca"; ObjectID = "yoh-pq-q8v"; */
+"yoh-pq-q8v.text" = "Čadca";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "yse-X0-Pmo"; */
+"yse-X0-Pmo.text" = "Say something about your trip ...";
+
+/* Class = "UITextField"; text = "Bol/a som tu"; ObjectID = "ytJ-L4-hYs"; */
+"ytJ-L4-hYs.text" = "Bol/a som tu";
+
+/* Class = "UIButton"; normalTitle = "Sabinov"; ObjectID = "yyj-gV-oXy"; */
+"yyj-gV-oXy.normalTitle" = "Sabinov";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "z03-h5-W0b"; */
+"z03-h5-W0b.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UISegmentedControl"; z4H-je-ugf.segmentTitles[0] = "Nie"; ObjectID = "z4H-je-ugf"; */
+"z4H-je-ugf.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; z4H-je-ugf.segmentTitles[1] = "Áno"; ObjectID = "z4H-je-ugf"; */
+"z4H-je-ugf.segmentTitles[1]" = "Áno";
+
+/* Class = "UISegmentedControl"; zGt-2m-0tb.segmentTitles[0] = "Nie"; ObjectID = "zGt-2m-0tb"; */
+"zGt-2m-0tb.segmentTitles[0]" = "Nie";
+
+/* Class = "UISegmentedControl"; zGt-2m-0tb.segmentTitles[1] = "Áno"; ObjectID = "zGt-2m-0tb"; */
+"zGt-2m-0tb.segmentTitles[1]" = "Áno";
+
+/* Class = "UIButton"; normalTitle = "ULOŽIŤ"; ObjectID = "zMD-0c-AlU"; */
+"zMD-0c-AlU.normalTitle" = "ULOŽIŤ";
+
+/* Class = "UILabel"; text = "Spišská Nová Ves"; ObjectID = "zQL-Vf-Biu"; */
+"zQL-Vf-Biu.text" = "Spišská Nová Ves";
+
+/* Class = "UITextView"; text = "Say something about your trip ..."; ObjectID = "zSu-AU-2Zk"; */
+"zSu-AU-2Zk.text" = "Say something about your trip ...";
+
+/* Class = "UIButton"; normalTitle = " ULOŽIŤ"; ObjectID = "zU7-XU-J5s"; */
+"zU7-XU-J5s.normalTitle" = " ULOŽIŤ";
+
+/* Class = "UIButton"; normalTitle = "Detva"; ObjectID = "ziK-hx-UxI"; */
+"ziK-hx-UxI.normalTitle" = "Detva";
+
+/* Class = "UILabel"; text = "Sabinov"; ObjectID = "zkh-0m-8QD"; */
+"zkh-0m-8QD.text" = "Sabinov";
